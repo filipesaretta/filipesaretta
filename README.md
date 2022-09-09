@@ -1,10 +1,4 @@
-<!-- <div align="center">
-  <img height="200" src=""  />
-</div> -->
 
-###
-
-<br clear="both">
 
 <h1 align="left">Hi 👋! I'm Filipe Saretta a self-taught  front-end developer based in Torino.</h1>
 
