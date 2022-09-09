@@ -42,6 +42,7 @@
 👨‍💻 Latest projects:
 
 - [Coffe Delivery](https://github.com/filipesaretta/coffeeDelivery)
+- [Lettering Creative](http://letteringcreative.com/)
 
 ###
 
