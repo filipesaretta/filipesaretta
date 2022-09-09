@@ -45,6 +45,12 @@
 
 ###
 
+👨‍💻 Latest projects:
+
+- [Coffe Delivery](https://github.com/filipesaretta/coffeeDelivery)
+
+###
+
 <br clear="both">
 
 ## 🧰 Toolbox
