@@ -43,6 +43,7 @@
 
 - [Coffe Delivery](https://github.com/filipesaretta/coffeeDelivery)
 - [Lettering Creative](http://letteringcreative.com/)
+- [Price Component](https://github.com/filipesaretta/price-component)
 
 ###
 
