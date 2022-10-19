@@ -30,11 +30,9 @@
 
 ✨ Fun fact: I speak portuguese, italian and english. I love cats 💖
 
-💭 Favorite quotes:
+💭 Favorite quote:
 
  > "Build before you have to. Let internal pressure drive you today, so you can handle external pressure tomorrow." - James Clear
-
-  > "Non esistono domande stupide. Esistono stupidi che non fanno domande." - Sconosciuto
 
 
 ###
