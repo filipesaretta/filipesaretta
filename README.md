@@ -11,9 +11,9 @@
 
 ###
 
-👨‍💻 I'm currently looking for a position as a junior front-end.
+👨‍💻 I'm currently working at Proedis as a Front-End Developer.
 
-🚀 I love the fast pace of tech and the need of constant study.
+🚀 I love the fast pace of tech!
 
 </br>
 
